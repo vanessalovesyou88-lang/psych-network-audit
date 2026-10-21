@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+audit-output/
+private-input/
+.env
+.DS_Store
