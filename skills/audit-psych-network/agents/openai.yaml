@@ -1,0 +1,4 @@
+interface:
+  display_name: "Psych Network Audit"
+  short_description: "Audit network exports and interpretation claims"
+  default_prompt: "Use $audit-psych-network to check my exported network results and separate errors from items needing review."

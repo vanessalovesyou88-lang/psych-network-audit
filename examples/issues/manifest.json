@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    "A",
+    "B",
+    "C"
+  ],
+  "communities": {
+    "A": "X",
+    "B": "X",
+    "C": "Y"
+  },
+  "sample_sizes": {
+    "network": 120,
+    "report": 118
+  },
+  "missing_data": "Synthetic example; no missing data.",
+  "tolerance": 0.001
+}

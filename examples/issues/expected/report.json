@@ -1,0 +1,22 @@
+[
+  {
+    "level": "ERROR",
+    "code": "EI_MISMATCH",
+    "evidence": "A: reported=0.9; computed=0.1; tolerance=0.001."
+  },
+  {
+    "level": "REVIEW",
+    "code": "N_DIFFERS",
+    "evidence": "Stage sample sizes differ: {'network': 120, 'report': 118}. Explain exclusions/missingness; difference is not automatically an error."
+  },
+  {
+    "level": "REVIEW",
+    "code": "CAUSAL_WORDING",
+    "evidence": "draft.txt:1: The cross-sectional network proves that B causes change in C."
+  },
+  {
+    "level": "INFO",
+    "code": "SCOPE",
+    "evidence": "Checked supplied exports only. Raw signed one-step EI/BEI, all nodes included. No model refit, z scores, normalized/two-step centrality, stability validation or causal certification. Wording matches require human review, including negations."
+  }
+]
